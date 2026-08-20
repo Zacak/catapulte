@@ -18,11 +18,11 @@ La catapulte devra également intégrer un mécanisme permettant de maintenir le
 
 Le projet me permet de travailler sur plusieurs domaines :
 
-- conception mécanique ;
-- modélisation 3D ;
-- impression 3D ;
-- découpe laser ;
-- prototypage ;
+- conception mécanique 
+- modélisation 3D 
+- impression  
+- découpe laser
+- prototypage 
 - étude des phénomènes physiques.
 
 ## Objectifs du Projet
@@ -31,13 +31,13 @@ L'objectif principal est de réaliser une catapulte miniature fonctionnelle util
 
 Les principaux objectifs sont :
 
-- concevoir un mécanisme simple et fonctionnel ;
-- utiliser un ressort de traction comme système de propulsion ;
-- concevoir un système de déclenchement manuel ;
-- modéliser les différentes pièces en 3D ;
-- fabriquer et assembler la catapulte ;
-- étudier les phénomènes physiques liés au fonctionnement de la catapulte ;
-- réaliser des essais de tir ;
+- concevoir un mécanisme simple et fonctionnel 
+- utiliser un ressort de traction comme système de propulsion 
+- concevoir un système de déclenchement manuel 
+- modéliser les différentes pièces en 3D 
+- fabriquer et assembler la catapulte 
+- étudier les phénomènes physiques liés au fonctionnement de la catapulte 
+- réaliser des essais de tir 
 - améliorer le prototype en fonction des résultats obtenus.
 
 # Existant
@@ -50,10 +50,10 @@ Dans mon projet, ce système est remplacé par un ressort de traction.
 
 Plusieurs solutions de déclenchement ont également été étudiées :
 
-- crochet simple ;
-- clip ;
-- mousqueton ;
-- gâchette mécanique ;
+- crochet simple 
+- clip 
+- mousqueton 
+- gâchette mécanique 
 - crochet avec languette pivotante.
 
 Ces recherches permettent de choisir une solution adaptée avant de commencer la modélisation 3D.
@@ -62,13 +62,13 @@ Ces recherches permettent de choisir une solution adaptée avant de commencer la
 
 La catapulte doit respecter plusieurs contraintes :
 
-- base de 170 × 170 mm ;
-- épaisseur de la base : 5 mm ;
-- encombrement maximal : 200 × 200 × 200 mm ;
-- utilisation d'un ressort comme système de propulsion ;
-- déclenchement manuel à distance à l'aide d'une corde de 50 cm ;
-- utilisation d'un projectile en mousse ;
-- conception adaptée à l'impression 3D et à la découpe laser ;
+- base de 170 × 170 mm 
+- épaisseur de la base : 5 mm 
+- encombrement maximal : 200 × 200 × 200 mm 
+- utilisation d'un ressort comme système de propulsion 
+- déclenchement manuel à distance à l'aide d'une corde de 50 cm 
+- utilisation d'un projectile en mousse 
+- conception adaptée à l'impression 3D et à la découpe laser 
 - assemblage suffisamment rigide pour permettre plusieurs essais.
 
 Les dimensions et les différents mécanismes pourront évoluer au cours du projet en fonction de la modélisation et des résultats obtenus lors des prototypes.
