@@ -21,15 +21,13 @@ Recherche des différents phénomènes physiques et formules
 
 La force exercée par le ressort dépend de son allongement :
 
-$$
-F = k \Delta x
-$$
+**F = k × Δx**
 
 Avec :
 
-- $F$ : force exercée par le ressort en newtons (N)
-- $k$ : raideur du ressort en N/m
-- $\Delta x$ : allongement du ressort en mètres (m)
+- **F** : force exercée par le ressort en newtons (N)
+- **k** : raideur du ressort en N/m
+- **Δx** : allongement du ressort en mètres (m)
 
 Plus le ressort est étiré, plus la force exercée est importante.
 
@@ -37,15 +35,13 @@ Plus le ressort est étiré, plus la force exercée est importante.
 
 Lorsque le ressort est tendu, il stocke de l'énergie :
 
-$$
-E = \frac{1}{2} k (\Delta x)^2
-$$
+**E = ½ × k × (Δx)²**
 
 Avec :
 
-- $E$ : énergie stockée en joules (J)
-- $k$ : raideur du ressort
-- $\Delta x$ : allongement du ressort
+- **E** : énergie stockée en joules (J)
+- **k** : raideur du ressort
+- **Δx** : allongement du ressort
 
 Cette énergie est libérée lors du déclenchement de la catapulte.
 
@@ -55,15 +51,13 @@ La force du ressort provoque la rotation du bras autour de son axe.
 
 Le couple mécanique peut être représenté par :
 
-$$
-\tau = F \times d
-$$
+**τ = F × d**
 
 Avec :
 
-- $\tau$ : couple en N·m
-- $F$ : force exercée par le ressort
-- $d$ : distance entre l'axe et le point d'application de la force
+- **τ** : couple en N·m
+- **F** : force exercée par le ressort
+- **d** : distance entre l'axe et le point d'application de la force
 
 ### Mouvement du projectile
 
@@ -71,23 +65,19 @@ Lorsque la balle quitte le bras, elle possède une vitesse initiale et un angle 
 
 Le mouvement horizontal est :
 
-$$
-x(t) = v_0 \cos(\theta)t
-$$
+**x(t) = v₀ × cos(θ) × t**
 
 Le mouvement vertical est :
 
-$$
-y(t) = h_0 + v_0 \sin(\theta)t - \frac{1}{2}gt^2
-$$
+**y(t) = h₀ + v₀ × sin(θ) × t − ½ × g × t²**
 
 Avec :
 
-- $v_0$ : vitesse initiale de la balle
-- $\theta$ : angle de lancement
-- $t$ : temps
-- $h_0$ : hauteur de départ
-- $g$ : accélération de la pesanteur, environ 9,81 m/s²
+- **v₀** : vitesse initiale de la balle en m/s
+- **θ** : angle de lancement
+- **t** : temps en secondes
+- **h₀** : hauteur de départ en mètres
+- **g** : accélération de la pesanteur, environ 9,81 m/s²
 
 La trajectoire obtenue est approximativement parabolique.
 
