@@ -11,7 +11,7 @@ Découverte de la documentation technique
 
 Création du repo GitHub : [https://github.com/Zacak/catapulte](https://github.com/Zacak/catapulte)
 
-Mise en place du journal de bord sur le site
+Mise en place de la documentation continue sur le site
 
 Analyse du cahier des charges : [Documentation MakerSpace](https://doc.makerspace-amiens.fr/workshops/medieval-challenge/concepts/medieval-challenge/informations/)
 
