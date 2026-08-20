@@ -98,3 +98,15 @@ Hauteur de l’axe : 45 mm
 Support : 55 mm
 
 Réflexion sur le choix du système de propulsion (ressort) et du mécanisme de déclenchement
+
+## Mise en place de la documentation
+
+J’ai commencé à structurer le site de documentation du projet afin de présenter de manière claire les différentes étapes de conception.
+
+Les premières pages ont été complétées avec :
+
+- la présentation du projet 
+- les objectifs 
+- le cahier des charges 
+
+Cette documentation sera mise à jour progressivement au fur et à mesure de l’avancement du projet.
