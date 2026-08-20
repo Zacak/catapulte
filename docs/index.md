@@ -25,12 +25,12 @@ Le projet permet également de mettre en pratique la conception mécanique, la m
 
 Cette documentation présente l'ensemble de la démarche :
 
-- analyse du cahier des charges ;
-- recherches sur les phénomènes physiques ;
-- choix techniques ;
-- conception et modélisation CAO ;
-- fabrication des prototypes ;
-- essais et améliorations ;
+- analyse du cahier des charges 
+- recherches sur les phénomènes physiques 
+- choix techniques 
+- conception et modélisation CAO 
+- fabrication des prototypes 
+- essais et améliorations 
 - version finale de la catapulte.
 
 ## Modélisation Onshape
