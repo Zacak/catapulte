@@ -7,15 +7,23 @@ permalink: /
 
 # Catapulte miniature avec un ressort 
 
-Bienvenue sur la documentation de notre projet de catapulte miniature.
+Catapulte miniature à ressort
 
-L'objectif est de concevoir, modéliser, fabriquer et tester une catapulte respectant le cahier des charges du MakerSpace.
+Bienvenue sur la documentation de mon projet de catapulte miniature.
 
-Le projet repose sur un bras pivotant entraîné par un ressort de traction. Le déclenchement sera réalisé manuellement à distance grâce à une corde de 50 cm.
+L'objectif du projet est de concevoir, modéliser, fabriquer et tester une catapulte utilisant un ressort comme source d'énergie, à la place d'un élastique.
+
+En parallèle de la conception mécanique, le projet consiste également à étudier et expliquer les principaux phénomènes physiques intervenant lors du lancement du projectile.
 
 ## À propos du projet
 
-Cette documentation présente l'ensemble de notre démarche :
+Ce projet consiste à concevoir, modéliser et fabriquer une mini-catapulte utilisant un ressort comme source d’énergie.
+
+L’objectif est de réaliser un système fonctionnel capable de lancer un projectile, tout en étudiant les principaux phénomènes physiques liés à son fonctionnement, notamment l’énergie élastique du ressort, la rotation du bras et la trajectoire du projectile.
+
+Le projet permet également de mettre en pratique la conception mécanique, la modélisation 3D et le prototypage.
+
+Cette documentation présente l'ensemble de la démarche :
 
 - analyse du cahier des charges ;
 - recherches sur les phénomènes physiques ;
