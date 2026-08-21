@@ -41,7 +41,7 @@ Ce modèle m’a servi de base pour réfléchir à la structure générale de ma
 * l’axe de rotation 
 * la disposition générale des différentes pièces
 
-![Catapulte H utilisée comme inspiration](images/catapulte-exemple.png)
+![Catapulte H ](images/catapulte-exemple.png)
 
 La principale modification concerne le système de propulsion : l’élastique du modèle d’origine sera remplacé par un ressort de traction.
 
