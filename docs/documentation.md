@@ -17,69 +17,14 @@ Analyse du cahier des charges : [Documentation MakerSpace](https://doc.makerspac
 
 Recherche des différents phénomènes physiques et formules
 
-### Loi de Hooke
+### Formules physiques utilisées
 
-La force exercée par le ressort dépend de son allongement :
-
-**F = k × Δx**
-
-Avec :
-
-- **F** : force exercée par le ressort en newtons (N)
-- **k** : raideur du ressort en N/m
-- **Δx** : allongement du ressort en mètres (m)
-
-Plus le ressort est étiré, plus la force exercée est importante.
-
-### Énergie potentielle élastique
-
-Lorsque le ressort est tendu, il stocke de l'énergie :
-
-**E = ½ × k × (Δx)²**
-
-Avec :
-
-- **E** : énergie stockée en joules (J)
-- **k** : raideur du ressort
-- **Δx** : allongement du ressort
-
-Cette énergie est libérée lors du déclenchement de la catapulte.
-
-### Rotation du bras
-
-La force du ressort provoque la rotation du bras autour de son axe.
-
-Le couple mécanique peut être représenté par :
-
-**τ = F × d**
-
-Avec :
-
-- **τ** : couple en N·m
-- **F** : force exercée par le ressort
-- **d** : distance entre l'axe et le point d'application de la force
-
-### Mouvement du projectile
-
-Lorsque la balle quitte le bras, elle possède une vitesse initiale et un angle de lancement.
-
-Le mouvement horizontal est :
-
-**x(t) = v₀ × cos(θ) × t**
-
-Le mouvement vertical est :
-
-**y(t) = h₀ + v₀ × sin(θ) × t − ½ × g × t²**
-
-Avec :
-
-- **v₀** : vitesse initiale de la balle en m/s
-- **θ** : angle de lancement
-- **t** : temps en secondes
-- **h₀** : hauteur de départ en mètres
-- **g** : accélération de la pesanteur, environ 9,81 m/s²
-
-La trajectoire obtenue est approximativement parabolique.
+- **Loi de Hooke**
+- **Énergie potentielle élastique**
+- **Moment de force / couple mécanique**
+- **Équation du mouvement horizontal du projectile**
+- **Équation du mouvement vertical du projectile**
+- **Trajectoire parabolique**
 
 Premier croquis effectué
 
@@ -110,3 +55,44 @@ Les premières pages ont été complétées avec :
 - le cahier des charges 
 
 Cette documentation sera mise à jour progressivement au fur et à mesure de l’avancement du projet.
+Lien du site:
+
+## Vendredi 21 août 2026
+
+Recherche de différents modèles de catapultes existants
+
+Choix de la Catapulte H comme base d’inspiration
+
+![Catapulte inspiration](images/catapulte exemple.png)
+
+Réflexion sur l’adaptation de la Catapulte H avec un ressort
+
+Choix d’une base fixe de 170 × 170 × 5 mm
+
+Réflexion sur le positionnement du ressort sur la partie arrière du bras
+
+Étude du système de rotation du bras avec une tige filetée
+
+Ajout de rondelles et d’entretoises pour maintenir le bras centré sur l’axe
+
+Réflexion sur le système de déclenchement avec une languette et une corde de 50 cm
+
+Identification des pièces pouvant être réalisées en bois :
+
+- base
+- montants du H
+- 
+Début de la modélisation 3D de la catapulte
+
+Création de la base de 170 × 170 × 5 mm
+
+![Modélisation de la base](images/base-v1.png)
+
+Modélisation des deux montants permettant de maintenir le bras
+
+![Modélisation des montants](images/montants-v1.png)
+
+Ajout des trous traversants dans les montants pour le passage de la tige filetée servant d’axe de rotation
+
+Réflexion sur l’écartement entre les deux montants afin de pouvoir ajouter le bras et les rondelles 
+
