@@ -19,12 +19,12 @@ Recherche des différents phénomènes physiques et formules
 
 ### Formules physiques utilisées
 
-- **Loi de Hooke**
-- **Énergie potentielle élastique**
-- **Moment de force / couple mécanique**
-- **Équation du mouvement horizontal du projectile**
-- **Équation du mouvement vertical du projectile**
-- **Trajectoire parabolique**
+- Loi de Hooke**
+- Énergie potentielle élastique
+- Moment de force / couple mécanique
+- Équation du mouvement horizontal du projectile
+- Équation du mouvement vertical du projectile
+- Trajectoire parabolique
 
 Premier croquis effectué
 
@@ -81,7 +81,7 @@ Identification des pièces pouvant être réalisées en bois :
 
 - base
 - montants du H
-- 
+  
 Début de la modélisation 3D de la catapulte
 
 Création de la base de 170 × 170 × 5 mm
