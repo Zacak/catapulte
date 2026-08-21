@@ -19,7 +19,7 @@ Recherche des différents phénomènes physiques et formules
 
 ### Formules physiques utilisées
 
-- Loi de Hooke**
+- Loi de Hooke
 - Énergie potentielle élastique
 - Moment de force / couple mécanique
 - Équation du mouvement horizontal du projectile
