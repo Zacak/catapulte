@@ -63,7 +63,7 @@ Recherche de différents modèles de catapultes existants
 
 Choix de la Catapulte H comme base d’inspiration
 
-![Catapulte inspiration](images/catapulte exemple.png)
+![Catapulte inspiration](images/catapulte-exemple.png)
 
 Réflexion sur l’adaptation de la Catapulte H avec un ressort
 
