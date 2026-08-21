@@ -96,3 +96,15 @@ Ajout des trous traversants dans les montants pour le passage de la tige fileté
 
 Réflexion sur l’écartement entre les deux montants afin de pouvoir ajouter le bras et les rondelles 
 
+### Mise à jour du site
+
+Réorganisation du site afin de mieux l’adapter au projet.
+
+Modifications réalisées :
+
+- création de la page: Préparation du projet 
+- ajout de la page: Modélisation 3D 
+- réorganisation du menu 
+- ajout des premières images du projet 
+- mise à jour de la documentation continue
+
