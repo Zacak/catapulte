@@ -108,3 +108,61 @@ Modifications réalisées :
 - ajout des premières images du projet 
 - mise à jour de la documentation continue
 
+## Lundi 24 août 2026
+
+Poursuite de la modélisation 3D de la catapulte
+
+Amélioration de la base et du support en H
+
+Modélisation du bras de lancement
+
+Ajout de la partie permettant de recevoir le projectile
+
+Vérification du positionnement du bras entre les deux montants
+
+Modélisation du système de fixation du ressort
+
+Réflexion sur le positionnement du ressort afin qu’il agisse correctement sur la partie arrière du bras
+
+Modélisation du système de blocage permettant de maintenir le bras en position armée
+
+Création du support de blocage
+
+Création de l’axe de blocage
+
+Modélisation des pièces de centrage
+
+Ajout des pièces de centrage de chaque côté du bras afin de limiter ses déplacements latéraux
+
+Ajout de la tige servant d’axe de rotation du bras
+
+Assemblage des différentes pièces afin de vérifier leur positionnement
+
+Vérification de la rotation et du centrage du bras autour de son axe
+
+Modification de la longueur et du positionnement du bras afin de respecter l’encombrement maximal imposé
+
+Vérification des dimensions de l’assemblage complet par rapport au cahier des charges
+
+Dimensions actuelles de l’assemblage : environ 170 × 196 × 105 mm
+
+L’ensemble reste donc dans le volume maximal autorisé de 200 × 200 × 200 mm
+
+### Pièces modélisées
+
+- plateau
+- support en H
+- bras de lancement
+- fixation du ressort
+- support de blocage
+- axe de blocage
+- pièces de centrage
+- axe de rotation du bras
+
+### Mise à jour du site
+
+Mise à jour de la page **Modélisation 3D**
+
+Ajout des différentes pièces modélisées sur le site
+
+Ajout d’une visualisation 3D interactive des fichiers 3d
