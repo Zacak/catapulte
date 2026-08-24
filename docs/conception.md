@@ -118,5 +118,5 @@ L’axe de blocage permet de retenir le bras en position armée puis de le libé
 </iframe>
 
 
-## Assemblage complet
+
 
