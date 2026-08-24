@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Préparation du projet.md
+parent: Préparation du projet
 nav_order: 3
 title: Guide de Syntaxe Markdown
 ---
