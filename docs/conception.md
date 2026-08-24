@@ -92,19 +92,12 @@ Le système de blocage permet de maintenir le bras en position armée avant le l
 
 Il est composé d’un support et d’un axe de blocage.
 
-### Support de blocage
-
-Le support de blocage permet de maintenir le mécanisme de déclenchement sur la structure de la catapulte.
-
-Dimensions approximatives : **44 × 8 × 29 mm**
-
 <iframe
-  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FSupport_Blocage.stl&embed=true"
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FSupport_Blocage_V2.stl&embed=true"
   title="Support du système de blocage"
   style="width:100%; height:450px; border:0;"
   loading="lazy">
 </iframe>
-
 
 ### Axe de blocage
 
