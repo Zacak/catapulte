@@ -64,12 +64,12 @@ Le principe actuellement envisagé est le suivant :
 
 Les premières dimensions retenues sont :
 
-* **Base :** 170 × 170 × 5 mm
-* **Longueur du bras :** environ 150 mm
-* **Distance entre l’axe et la balle :** environ 125 mm
-* **Largeur du bras :** environ 18 mm
-* **Épaisseur du bras :** environ 7 mm
-* **Hauteur de l’axe :** environ 45 mm
+* Base : 170 × 170 × 5 mm
+* Longueur du bras : environ 150 mm
+* Distance entre l’axe et la balle : environ 125 mm
+* Largeur du bras : environ 18 mm
+* Épaisseur du bras : environ 7 mm
+* Hauteur de l’axe : environ 45 mm
 
 Ces dimensions sont encore provisoires et pourront être modifiées pendant la modélisation ou après les premiers essais.
 
