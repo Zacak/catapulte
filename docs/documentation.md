@@ -161,7 +161,7 @@ L’ensemble reste donc dans le volume maximal autorisé de 200 × 200 × 200 mm
 
 ### Mise à jour du site
 
-Mise à jour de la page **Modélisation 3D**
+Mise à jour de la page Modélisation 3D
 
 Ajout des différentes pièces modélisées sur le site
 
