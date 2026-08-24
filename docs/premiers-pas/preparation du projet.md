@@ -81,11 +81,10 @@ Les premières pièces à modéliser sont :
 
 1. la base
 2. les deux montants permettant de maintenir le bras 
-4. l’axe de rotation ;
-5. le bras de lancement ;
-6. les points de fixation du ressort ;
-7. le support de la balle ;
-8. le mécanisme de déclenchement.
+3. le bras de lancement 
+4. les points de fixation du ressort 
+5. le support de la balle 
+6. le mécanisme de déclenchement.
 
 La base et les montants sont prévus pour être réalisés en bois, tandis que certaines pièces plus complexes pourront être fabriquées en impression 3D.
 
