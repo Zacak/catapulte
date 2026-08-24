@@ -1,7 +1,7 @@
 ---
 layout: default
-parent: Premiers pas sur le template
-nav_order: 6
+parent: Préparation du projet
+nav_order: 4
 title: Modifier Votre Site Jekyll sur GitHub - Avancé
 ---
 # Modifier Votre Site Jekyll sur GitHub - Avancé
