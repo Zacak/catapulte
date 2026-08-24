@@ -3,11 +3,6 @@ layout: default
 nav_order: 5
 title: Modélisation 3D
 ---
----
-layout: default
-nav_order: 5
-title: Modélisation 3D
----
 
 # Modélisation 3D
 
