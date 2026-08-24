@@ -94,7 +94,9 @@ Il est composé d’un support et d’un axe de blocage.
 
 ### Support de blocage
 
-Le support permet de maintenir le mécanisme de blocage sur la structure de la catapulte.
+Le support de blocage permet de maintenir le mécanisme de déclenchement sur la structure de la catapulte.
+
+Dimensions approximatives : **44 × 8 × 29 mm**
 
 <iframe
   src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FSupport_Blocage.stl&embed=true"
