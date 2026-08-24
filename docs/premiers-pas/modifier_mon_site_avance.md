@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Préparation du projet
+parent: Preparation du projet
 nav_order: 4
 title: Modifier Votre Site Jekyll sur GitHub - Avancé
 ---
