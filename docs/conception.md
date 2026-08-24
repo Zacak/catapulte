@@ -3,6 +3,12 @@ layout: default
 nav_order: 5
 title: Modélisation 3D
 ---
+---
+layout: default
+nav_order: 5
+title: Modélisation 3D
+---
+
 # Modélisation 3D
 
 Cette partie présente les différentes pièces modélisées pour la réalisation de la catapulte.
@@ -13,59 +19,106 @@ La modélisation 3D permet de vérifier les dimensions, le positionnement des pi
 
 Le plateau constitue la base de la catapulte.
 
-Dimensions : 170 × 170 × 5 mm
+Dimensions :
 
-<script src="https://embed.github.com/view/3d/Zacak/catapulte/main/docs/Plateau.stl?height=400&width=700"></script>
+- longueur : 170 mm
+- largeur : 170 mm
+- épaisseur : 5 mm
+
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FPlateau.stl&embed=true"
+  title="Plateau de la catapulte"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
 
 ## Support en H
 
 Le support en H permet de maintenir le bras et son axe de rotation.
 
-Les trous traversants permettent le passage de la tige filetée.
+Les trous traversants permettent le passage de la tige filetée servant d’axe de rotation.
 
-<script src="https://embed.github.com/view/3d/Zacak/catapulte/main/docs/Support_H.stl?height=400&width=700"></script>
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FSupport_H.stl&embed=true"
+  title="Support en H de la catapulte"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
 
 ## Bras de lancement
 
 Le bras est la principale pièce mobile de la catapulte.
 
-Il pivote autour de la tige filetée et permet de transmettre l'énergie du ressort au projectile.
+Il pivote autour de la tige filetée et permet de transmettre l’énergie du ressort au projectile.
 
-<script src="https://embed.github.com/view/3d/Zacak/catapulte/main/docs/Bras.stl?height=400&width=700"></script>
+Une extrémité du bras permet de recevoir la balle tandis que la partie arrière est utilisée pour l’action du ressort.
+
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FBras.stl&embed=true"
+  title="Bras de lancement de la catapulte"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
 
 ## Fixation du ressort
 
-Cette pièce permet de maintenir et positionner le ressort sur la structure.
+Cette pièce permet de fixer le ressort sur la structure de la catapulte.
 
-<script src="https://embed.github.com/view/3d/Zacak/catapulte/main/docs/Fixation_Ressort.stl?height=400&width=700"></script>
+Son positionnement permet au ressort d’agir sur la partie arrière du bras lorsque celui-ci est placé en position armée.
+
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FFixation_Ressort.stl&embed=true"
+  title="Fixation du ressort"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
 
-## Pièce de centrage
+## Pièces de centrage
 
-Cette pièce permet de maintenir le bras centré entre les deux montants et de limiter ses déplacements latéraux pendant le fonctionnement.
+Les pièces de centrage sont placées autour de l’axe de rotation.
 
-<script src="https://embed.github.com/view/3d/Zacak/catapulte/main/docs/Centrage.stl?height=400&width=700"></script>
+Elles permettent de maintenir le bras centré entre les deux montants et de limiter ses déplacements latéraux tout en conservant sa liberté de rotation.
+
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FCentrage.stl&embed=true"
+  title="Pièces de centrage du bras"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
 
 ## Système de blocage
 
 Le système de blocage permet de maintenir le bras en position armée avant le lancement.
 
+Il est composé d’un support et d’un axe de blocage.
+
 ### Support de blocage
 
-Le support maintient le mécanisme de blocage sur la structure.
+Le support permet de maintenir le mécanisme de blocage sur la structure de la catapulte.
 
-<script src="https://embed.github.com/view/3d/Zacak/catapulte/main/docs/Support_Blocage.stl?height=400&width=700"></script>
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FSupport_Blocage.stl&embed=true"
+  title="Support du système de blocage"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
 
 ### Axe de blocage
 
-L'axe de blocage permet de retenir puis de libérer le bras lors du déclenchement.
+L’axe de blocage permet de retenir le bras en position armée puis de le libérer lors du déclenchement.
 
-<script src="https://embed.github.com/view/3d/Zacak/catapulte/main/docs/Axe_Blocage.stl?height=400&width=700"></script>
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FAxe_Blocage.stl&embed=true"
+  title="Axe de blocage"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
 
 ## Assemblage complet
