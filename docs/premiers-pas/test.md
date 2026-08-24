@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Préparation du projet
+parent: Preparation du projet
 nav_order: 1
 title: test
 ---
