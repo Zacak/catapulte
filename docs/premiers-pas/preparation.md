@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Préparation 
+parent: Préparation du projet
 nav_order: 1
-has_children: true
+title: prepa
 ---
 
 # Préparation du projet
