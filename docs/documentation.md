@@ -179,11 +179,11 @@ Mesure du ressort utilisé pour le prototype :
 - longueur pouvant être atteinte sans forcer excessivement : environ 6 cm
 - allongement envisagé : environ 3 cm
 
-Révision de la loi de Hooke :
+loi de Hooke :
 
 F = k × Δx
 
-Étude de l’énergie potentielle élastique stockée dans le ressort :
+Énergie potentielle élastique stockée dans le ressort :
 
 E = 1/2 × k × (Δx)²
 
