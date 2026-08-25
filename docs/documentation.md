@@ -166,3 +166,58 @@ Mise à jour de la page Modélisation 3D
 Ajout des différentes pièces modélisées sur le site
 
 Ajout d’une visualisation 3D interactive des fichiers 3d
+
+## Mardi 25 août 2026
+
+Travail principalement consacré à la partie physique du projet
+
+Étude du fonctionnement du ressort et de son influence sur le lancement
+
+Mesure du ressort utilisé pour le prototype :
+
+- longueur au repos : environ 3 cm
+- longueur pouvant être atteinte sans forcer excessivement : environ 6 cm
+- allongement envisagé : environ 3 cm
+
+Révision de la loi de Hooke :
+
+F = k × Δx
+
+Étude de l’énergie potentielle élastique stockée dans le ressort :
+
+E = 1/2 × k × (Δx)²
+
+Recherche et ajout de schémas explicatifs afin de mieux comprendre les différentes formules physiques
+
+Étude de la trajectoire du projectile après son lancement
+
+Décomposition de la vitesse initiale en une composante horizontale et une composante verticale
+
+Réflexion sur les paramètres pouvant influencer la portée du projectile :
+
+- raideur du ressort
+- allongement du ressort
+- angle de lancement
+- hauteur de départ
+
+### Simulation avec Algodoo
+
+Création d’une première simulation simplifiée de la catapulte avec Algodoo
+
+Adaptation progressive de la simulation afin de la rapprocher de la modélisation 3D du prototype
+
+Modification du positionnement du bras et du système de blocage afin de représenter correctement la position armée de la catapulte
+
+Ajustement de la position du ressort en fonction de la modélisation 3D
+
+Utilisation du ressort avec une longueur au repos de 30 mm dans la simulation
+
+Réalisation de premiers essais de lancement dans Algodoo
+
+Observation d’une trajectoire approximativement parabolique du projectile
+
+![Simulation Algodoo de la catapulte](images/simulation-algodoo.png)
+
+Les résultats obtenus seront ensuite comparés aux mesures réalisées avec la catapulte réelle afin d’analyser les écarts entre la théorie, la simulation et l’expérience.
+
+Début de la création d’une page dédiée à l’étude physique sur le site pour regrouper les formules, les schémas, la simulation Algodoo puis les futurs résultats expérimentaux.
