@@ -216,7 +216,7 @@ Réalisation de premiers essais de lancement dans Algodoo
 
 Observation d’une trajectoire approximativement parabolique du projectile
 
-![Simulation Algodoo de la catapulte](images/simulation-algodoo.png)
+![Simulation Algodoo de la catapulte](images/simulation-algodoo.png) 
 
 Les résultats obtenus seront ensuite comparés aux mesures réalisées avec la catapulte réelle afin d’analyser les écarts entre la théorie, la simulation et l’expérience.
 
