@@ -221,3 +221,55 @@ Observation d’une trajectoire approximativement parabolique du projectile
 Les résultats obtenus seront ensuite comparés aux mesures réalisées avec la catapulte réelle afin d’analyser les écarts entre la théorie, la simulation et l’expérience.
 
 Début de la création d’une page dédiée à l’étude physique sur le site pour regrouper les formules, les schémas, la simulation Algodoo puis les futurs résultats expérimentaux.
+
+## Mercredi 26 août 2026
+
+Poursuite du travail sur la partie physique du projet.
+
+Préparation des calculs à faire valider.
+
+Identification du ressort utilisé comme étant un ressort de traction.
+
+### Modélisation 3D
+
+Poursuite de l'amélioration de l'assemblage.
+
+Réflexion sur l'intégration du ressort de traction dans la modélisation 3D.
+
+Identification des deux points d'accroche du ressort :
+
+- un point d'accroche sur la partie arrière du bras
+- un point d'accroche fixe sur la base
+
+Vérification du positionnement de ces deux points afin que le ressort puisse agir correctement sur le bras.
+
+Création d'un premier modèle 3D du ressort.
+
+Ajout du ressort dans l'assemblage pour vérifier son positionnement entre le point d'accroche du bras et le point fixe situé sur la base.
+
+![Intégration du ressort dans l'assemblage](images/integration-ressort.png)
+
+Cette intégration permet de mieux visualiser le fonctionnement du mécanisme et de vérifier que le ressort est correctement orienté par rapport au bras.
+
+### Préparation de la partie expérimentale
+
+Réflexion sur la manière d'obtenir les valeurs réelles nécessaires aux calculs :
+
+- utilisation de masses connues pour déterminer la raideur réelle du ressort
+- mesure de la masse du projectile
+- mesure de la hauteur de lancement
+- détermination de l'angle de lancement
+- réflexion sur la méthode permettant de déterminer la vitesse initiale du projectile
+
+Étude du TP de bille sur rail afin de voir comment appliquer les équations de trajectoire à partir de mesures expérimentales.
+
+L'objectif sera dans un premier temps de vérifier la méthode avec le matériel du TP, puis de l'appliquer ensuite à la catapulte afin de comparer les résultats calculés aux résultats obtenus lors des tirs réels afin de savoir si une erreur a était commise.
+
+### Mise à jour de la modélisation 3D
+
+Mise à jour de la page Modélisation 3D du site.
+
+Ajout du ressort de traction parmi les éléments modélisés.
+
+Ajout de l'assemblage complet de la catapulte afin de visualiser l'ensemble des différentes pièces.
+
