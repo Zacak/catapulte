@@ -272,4 +272,5 @@ Mise à jour de la page Modélisation 3D du site.
 Ajout du ressort de traction parmi les éléments modélisés.
 
 Ajout de l'assemblage complet de la catapulte afin de visualiser l'ensemble des différentes pièces.
+![assemblage complet de la catapulte](images/assemblage_complet_de_la_catapulte.png)
 
