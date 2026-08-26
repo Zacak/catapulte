@@ -261,9 +261,9 @@ Réflexion sur la manière d'obtenir les valeurs réelles nécessaires aux calcu
 - détermination de l'angle de lancement
 - réflexion sur la méthode permettant de déterminer la vitesse initiale du projectile
 
-Étude du TP de bille sur rail afin de voir comment appliquer les équations de trajectoire à partir de mesures expérimentales.
+Étude du TP de bille sur rail (première année) afin de voir comment appliquer les équations de trajectoire à partir de mesures expérimentales.
 
-L'objectif sera dans un premier temps de vérifier la méthode avec le matériel du TP, puis de l'appliquer ensuite à la catapulte afin de comparer les résultats calculés aux résultats obtenus lors des tirs réels afin de savoir si une erreur a était commise.
+L'objectif sera dans un premier temps de vérifier la méthode avec le matériel du TP, puis l'appliquer ensuite à la catapulte afin de comparer les résultats calculés aux résultats obtenus lors des tirs réels afin de savoir si une erreur a était commise.
 
 ### Mise à jour de la modélisation 3D
 
