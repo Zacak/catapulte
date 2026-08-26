@@ -110,6 +110,38 @@ L’axe de blocage permet de retenir le bras en position armée puis de le libé
   loading="lazy">
 </iframe>
 
+## Ressort de traction
 
+Un modèle de ressort de traction a été ajouté dans l’assemblage afin de vérifier son positionnement entre le point d’accroche situé sur la partie arrière du bras et le point d’accroche fixe situé sur la base.
 
+Cette modélisation permet de visualiser l’orientation du ressort et de vérifier son intégration dans le mécanisme avant la fabrication.
+
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FRessort.stl&embed=true"
+  title="Ressort de traction"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
+
+## Assemblage complet
+
+Les différentes pièces modélisées ont été regroupées dans Fusion 360 afin de vérifier leur positionnement et l’encombrement général de la catapulte.
+
+L’assemblage comprend :
+
+- le plateau
+- le support en H
+- le bras de lancement
+- la fixation du ressort
+- le ressort de traction
+- les pièces de centrage
+- le système de blocage
+- l’axe de rotation du bras
+
+<iframe
+  src="https://stlviewer.online/view?url=https%3A%2F%2Fzacak.github.io%2Fcatapulte%2FCatapulte_Finale.stl&embed=true"
+  title="Assemblage complet de la catapulte"
+  style="width:100%; height:450px; border:0;"
+  loading="lazy">
+</iframe>
 
