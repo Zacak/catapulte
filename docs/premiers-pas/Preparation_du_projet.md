@@ -102,4 +102,3 @@ Une fois les premières pièces modélisées, les prochaines étapes seront :
 - assembler un premier prototype
 - effectuer les premiers essais
 - modifier la conception en fonction des résultats obtenus
-
