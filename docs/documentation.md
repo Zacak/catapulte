@@ -223,7 +223,7 @@ Les résultats obtenus seront ensuite comparés aux mesures réalisées avec la 
 Début de la création d’une page dédiée à l’étude physique sur le site pour regrouper les formules, les schémas, la simulation Algodoo puis les futurs résultats expérimentaux.
 
 ## Mercredi 26 août 2026
-
+ 
 Poursuite du travail sur la partie physique du projet.
 
 Préparation des calculs à faire valider.
