@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cahier des charges et contraintes
-parent: Preparation_du_projet
+parent: Preparation du projet
 nav_order: 1
 ---
 
