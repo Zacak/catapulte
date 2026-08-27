@@ -314,5 +314,3 @@ Réorganisation de certaines parties du site afin de rendre la documentation plu
 Création de la page Cahier des charges et contraintes afin de regrouper les principales contraintes du projet.
 
 Modification de la page Études et choix techniques afin de mieux présenter les différentes études réalisées dans le cadre du projet. 
-
-
