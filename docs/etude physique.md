@@ -181,4 +181,3 @@ Certaines valeurs utilisées dans la simulation sont encore provisoires, notamme
 Lorsque les mesures expérimentales auront été réalisées, les valeurs réelles pourront être utilisées afin de rendre la simulation plus proche du prototype.
 
 ---
-
