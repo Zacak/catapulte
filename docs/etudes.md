@@ -21,5 +21,3 @@ Elle comprend notamment :
 ## Étude physique
 
 Cette partie présente les formules, simulations et futurs essais expérimentaux permettant d’étudier le comportement du ressort et la trajectoire du projectile.
-
-[Accéder à l'étude physique](physique.md)
