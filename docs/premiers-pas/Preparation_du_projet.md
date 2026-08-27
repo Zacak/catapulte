@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preparation du projet
+title: Préparation du projet
 nav_order: 4
 has_children: true
 ---
