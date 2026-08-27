@@ -274,3 +274,45 @@ Ajout du ressort de traction parmi les éléments modélisés.
 Ajout de l'assemblage complet de la catapulte afin de visualiser l'ensemble des différentes pièces.
 ![assemblage complet de la catapulte](images/assemblage_complet_de_la_catapulte.png)
 
+## Jeudi 27 août 2026
+
+Correction du problème de publication de la documentation continue du mercredi 26 août.
+
+Poursuite du travail sur la partie physique du projet.
+
+Finalisation de la fiche regroupant les principales formules qui seront utilisées pour l’étude de la catapulte.
+
+Réalisation d’exemples de calculs avec des valeurs provisoires afin de comprendre les différentes formules.
+
+Envoi de la fiche de calculs au professeur de physique afin de faire valider les formules et la méthode avant de passer à la partie expérimentale.
+
+### Étude de la trajectoire
+
+Poursuite de la réflexion sur la méthode permettant d’étudier expérimentalement la trajectoire du projectile.
+
+Prévision d’utiliser dans un premier temps le matériel du TP de bille sur rail.
+
+La méthode pourra ensuite être adaptée au prototype réel de la catapulte.
+
+### Mise à jour du site
+
+Poursuite de la création de la page Étude physique.
+
+Ajout et organisation des différentes parties :
+
+- fonctionnement physique de la catapulte
+- loi de Hooke
+- énergie potentielle élastique
+- trajectoire du projectile
+- simulation avec Algodoo
+- préparation de la future partie expérimentale
+
+Préparation de tableaux qui seront complétés avec les valeurs réelles lors des futurs essais.
+
+Réorganisation de certaines parties du site afin de rendre la documentation plus claire.
+
+Création de la page Cahier des charges et contraintes afin de regrouper les principales contraintes du projet.
+
+Modification de la page Études et choix techniques afin de mieux présenter les différentes études réalisées dans le cadre du projet. 
+
+
