@@ -313,4 +313,100 @@ Réorganisation de certaines parties du site afin de rendre la documentation plu
 
 Création de la page Cahier des charges et contraintes afin de regrouper les principales contraintes du projet.
 
-Modification de la page Études et choix techniques afin de mieux présenter les différentes études réalisées dans le cadre du projet. 
+Modification de la page Études et choix techniques afin de mieux présenter les différentes études réalisées dans le cadre du projet.
+
+## Vendredi 28 août 2026
+
+Travail principalement consacré à la partie physique du projet.
+
+Identification du système étudié comme étant la masse suspendue au ressort.
+
+Réalisation du bilan des forces appliquées sur cette masse :
+
+- le poids P⃗ dirigé vers le bas
+- la force de rappel du ressort T⃗ dirigée vers le haut
+
+Lorsque la masse est immobile, elle est à l'équilibre.
+
+### Expérience sur le ressort
+
+Mise en place d'un montage expérimental avec :
+
+- un ressort de traction
+- un support vertical
+- des masses connues
+- une règle graduée
+
+Mesure de la longueur du ressort au repos :
+
+L₀ = 2 cm
+
+Réalisation de plusieurs essais avec les masses suivantes :
+
+- 50 g
+- 80 g
+- 100 g
+- 120 g
+- 140 g
+
+Pour chaque essai :
+
+- mesure de la longueur du ressort après ajout de la masse
+- calcul de l'allongement ΔL
+- calcul du poids P = m × g
+- calcul de la raideur k
+
+Les résultats ont été regroupés dans un tableau Excel afin d'automatiser les calculs.
+
+La raideur moyenne obtenue est d'environ :
+
+k ≈ 73,5 N/m
+
+Cette valeur est retenue pour la suite de l'étude.
+
+### Analyse graphique
+
+Création d'un graphique représentant le poids P en fonction de l'allongement ΔL.
+
+Sur le graphique :
+
+- l'axe horizontal x représente l'allongement ΔL en mètres
+- l'axe vertical y représente le poids P en newtons
+
+Ajout d'une droite de tendance.
+
+Les différents points sont alignés.
+
+Cela montre que sur les différentes masses utilisée, l'allongement du ressort augmente de manière linéaire lorsque le poids appliqué augmente.
+
+Le coefficient R² = 1 indique que les points expérimentaux sont alignés avec la droite de tendance.
+
+La droite ne passe cependant pas exactement par l'origine. Ce décalage pourra être lié notamment à la précision des mesures ou au comportement réel du ressort.
+
+### Mise à jour du site
+
+Réorganisation de la partie physique du site afin de mieux séparer la théorie et l'expérience.
+
+Mise à jour de la page Étude physique avec :
+
+- la loi de Hooke
+- le bilan des forces
+- l'énergie potentielle élastique
+- la trajectoire du projectile
+- la portée
+- la simulation avec Algodoo
+
+Création d'une nouvelle page Expérience sur le ressort afin de regrouper :
+
+- le principe de l'expérience
+- le matériel utilisé
+- la mesure de la longueur au repos du ressort
+- le protocole expérimental
+- les résultats obtenus sous Excel
+- le graphique représentant le poids en fonction de l'allongement
+- l'analyse du graphique
+- la valeur moyenne de la raideur obtenue
+
+La valeur expérimentale retenue pour la raideur du ressort est :
+
+k ≈ 73,5 N/m
