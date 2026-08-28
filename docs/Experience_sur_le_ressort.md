@@ -148,9 +148,3 @@ L'expérience a permis de déterminer expérimentalement la raideur du ressort u
 La valeur retenue est :
 
 k ≈ 73,5 N/m
-
-Cette valeur pourra maintenant être utilisée pour :
-
-- calculer l'énergie potentielle élastique stockée dans le ressort
-- améliorer la simulation Algodoo
-- rapprocher les calculs théoriques du comportement réel du prototype
