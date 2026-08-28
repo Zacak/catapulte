@@ -323,8 +323,8 @@ Identification du système étudié comme étant la masse suspendue au ressort.
 
 Réalisation du bilan des forces appliquées sur cette masse :
 
-- le poids P⃗ dirigé vers le bas
-- la force de rappel du ressort T⃗ dirigée vers le haut
+- le poids P dirigé vers le bas
+- la force de rappel du ressort T dirigée vers le haut
 
 Lorsque la masse est immobile, elle est à l'équilibre.
 
