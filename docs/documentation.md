@@ -410,3 +410,59 @@ Création d'une nouvelle page Expérience sur le ressort afin de regrouper :
 La valeur expérimentale retenue pour la raideur du ressort est :
 
 k ≈ 73,5 N/m
+
+
+## Lundi 31 août 2026
+
+Travail principalement consacré à la préparation de la présentation intermédiaire du projet.
+
+### Préparation du diaporama
+
+Création et organisation d'un diaporama présentant l'état actuel du projet.
+
+La présentation est structurée autour des parties suivantes :
+
+- présentation du projet
+- cahier des charges
+- démarche suivie
+- conception et modélisation 3D
+- étude physique
+- expérience sur le ressort
+- résultats expérimentaux
+- simulation avec Algodoo
+- avancement actuel
+- prochaines étapes
+
+Ajout de plusieurs éléments déjà réalisés dans le projet :
+
+- captures de la modélisation 3D
+- photos du montage expérimental
+- tableau Excel
+- graphique obtenu avec les mesures
+- capture de la simulation Algodoo
+
+### Préparation de l'oral
+
+Préparation d'un texte pour accompagner chaque diapositive.
+
+Révision des principaux éléments à savoir expliquer :
+
+- objectif du projet
+- fonctionnement de la catapulte
+- rôle du ressort
+- système étudié lors de l'expérience
+- forces appliquées sur la masse
+- calcul du poids
+- calcul de l'allongement
+- détermination de la raideur du ressort
+- interprétation du graphique
+- fonctionnement de la simulation Algodoo
+
+Choix de rester sur les calculs réellement utilisés et compris afin de pouvoir les expliquer correctement pendant la présentation.
+
+
+### Suite du travail
+
+La prochaine étape consiste à poursuivre la préparation de la présentation intermédiaire puis à avancer sur la fabrication et l'assemblage du prototype.
+
+Les futurs essais permettront ensuite de compléter la partie physique avec les mesures réalisées sur la catapulte réelle.
