@@ -170,7 +170,7 @@ La simulation représente notamment :
 - le système de blocage
 - le projectile
 
-![Simulation Algodoo de la catapulte](images/simulation-algodoo.png)
+![Simulation Algodoo mise à jour](images/simulation-algodoo-v6.png)
 
 La trajectoire du projectile est visible grâce au traceur présent dans la simulation.
 
