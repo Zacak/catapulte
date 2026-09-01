@@ -466,3 +466,118 @@ Choix de rester sur les calculs réellement utilisés et compris afin de pouvoir
 La prochaine étape consiste à poursuivre la préparation de la présentation intermédiaire puis à avancer sur la fabrication et l'assemblage du prototype.
 
 Les futurs essais permettront ensuite de compléter la partie physique avec les mesures réalisées sur la catapulte réelle.
+
+## Mardi 1 septembre 2026
+
+
+### Préparation de la présentation intermédiaire
+
+Poursuite de la création du diaporama présentant l'état actuel du projet.
+
+Organisation de la présentation autour des principales parties :
+
+- projet et cahier des charges
+- conception et modélisation 3D
+- étude physique
+- expérience sur le ressort
+- résultats expérimentaux
+- simulation Algodoo
+- avancement et prochaines étapes
+
+Ajout et mise à jour des différentes images utilisées dans la présentation :
+
+- modélisation 3D
+- photos du montage expérimental
+- tableau Excel
+- graphique
+- simulation Algodoo
+
+Simplification de la partie physique afin de présenter uniquement les éléments déjà étudiés et compris.
+
+### Mise à jour de la simulation Algodoo
+
+Modification des paramètres du ressort dans la simulation avec la valeur expérimentale obtenue précédemment :
+
+k ≈ 73,5 N/m
+
+Ajustement du comportement du bras afin d'obtenir un lancement plus cohérent du projectile.
+
+Après plusieurs essais, obtention d'une trajectoire approximativement parabolique.
+
+![Simulation Algodoo mise à jour](images/simulation-algodoo-v6.png)
+
+La simulation permet maintenant de visualiser :
+
+- le mouvement du bras
+- l'action du ressort
+- le lancement du projectile
+- la trajectoire
+- le point d'impact
+
+### Estimation de la portée simulée
+
+Utilisation de la grille Algodoo et des dimensions connues de la catapulte afin d'estimer la portée.
+
+La base mesure :
+
+L_base = 170 mm = 0,17 m
+
+La distance observée correspond à environ 10,5 longueurs de base.
+
+Calcul :
+
+R ≈ 10,5 × 0,17
+
+R ≈ 1,785 m
+
+La portée simulée retenue est donc d'environ :
+
+R ≈ 1,8 m
+
+Cette valeur sera comparée plus tard avec la portée obtenue lors des essais du prototype réel.
+
+### Préparation de la partie calculatoire
+
+Révision des calculs réalisés lors de l'expérience sur le ressort.
+
+Les principales relations utilisées sont :
+
+P = m × g
+
+ΔL = L - L₀
+
+k = P / ΔL
+
+Rappel de la valeur expérimentale retenue :
+
+k ≈ 73,5 N/m
+
+Préparation d'un exemple de calcul afin de pouvoir expliquer clairement la méthode pendant la présentation.
+
+### Préparation de l'oral
+
+Préparation d'un court texte pour accompagner chaque diapositive.
+
+Révision des principaux éléments à savoir expliquer :
+
+- objectif du projet
+- contraintes du cahier des charges
+- fonctionnement général de la catapulte
+- modélisation 3D
+- rôle du ressort
+- système étudié lors de l'expérience
+- forces appliquées à la masse
+- calcul de la raideur
+- interprétation du graphique
+- fonctionnement de la simulation Algodoo
+- portée obtenue dans la simulation
+- prochaines étapes du projet
+
+### Mise à jour du site
+
+Préparation de la mise à jour de la partie Algodoo du site avec :
+
+- la nouvelle capture de la simulation
+- la valeur réelle de la raideur du ressort
+- la nouvelle trajectoire obtenue
+- la portée simulée d'environ 1,8 m
