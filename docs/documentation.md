@@ -460,13 +460,6 @@ Révision des principaux éléments à savoir expliquer :
 
 Choix de rester sur les calculs réellement utilisés et compris afin de pouvoir les expliquer correctement pendant la présentation.
 
-
-### Suite du travail
-
-La prochaine étape consiste à poursuivre la préparation de la présentation intermédiaire puis à avancer sur la fabrication et l'assemblage du prototype.
-
-Les futurs essais permettront ensuite de compléter la partie physique avec les mesures réalisées sur la catapulte réelle.
-
 ## Mardi 1 septembre 2026
 
 
