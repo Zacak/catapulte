@@ -574,3 +574,58 @@ Préparation de la mise à jour de la partie Algodoo du site avec :
 - la valeur réelle de la raideur du ressort
 - la nouvelle trajectoire obtenue
 - la portée simulée d'environ 1,8 m
+
+  ## Mercredi 2 septembre 2026
+
+### Modification de la fixation du ressort
+
+La fixation du ressort a également été retravaillée.
+
+Le ressort utilisé possède une boucle métallique à chacune de ses extrémités.
+
+Pour faciliter son montage, j'ai étudié une fixation utilisant des petits pions ou crochets adaptés à ces boucles.
+
+Le diamètre intérieur de la boucle a été estimé à environ 5 mm.
+
+Un pion d'environ 4 mm de diamètre peut donc être envisagé afin de conserver suffisamment de jeu pour installer facilement le ressort.
+
+### Fabrication du prototype
+
+Le prototype a ensuite été assemblé.
+
+Une fois le ressort installé, j'ai constaté qu'en position armée celui-ci ne semblait pas suffisamment tendu.
+
+Le ressort reste légèrement courbé, ce qui montre que la distance entre ses deux points d'accroche est probablement encore trop faible.
+
+Cette observation montre l'intérêt de comparer la modélisation avec le comportement réel du prototype.
+
+### Recherche d'une amélioration
+
+Plusieurs solutions ont été envisagées pour augmenter la tension du ressort.
+
+La solution actuellement étudiée consiste à surélever le support en H à l'aide de pieds placés sous celui-ci.
+
+Une surélévation maximale envisagée est de :
+30mm
+
+Cette modification augmenterait la hauteur du point d'accroche du ressort situé sur le bras.
+
+L'encombrement théorique resterait inférieur à la limite imposée de :
+
+200x200x200mm
+
+Avant de modifier définitivement la pièce, différents essais avec des cales de 10 mm, 20 mm et 30 mm pourront être réalisés afin de déterminer la hauteur la plus adaptée.
+
+### Bilan de la journée
+
+Cette journée a permis de passer de la modélisation au prototype réel.
+
+Le montage a permis d'identifier un problème de tension du ressort qui n'était pas évident uniquement avec la CAO.
+
+Les prochaines étapes seront donc :
+
+- optimiser la hauteur du support en H ;
+- améliorer la tension du ressort ;
+- mesurer les dimensions réelles du système ;
+- recalculer la force et l'énergie du ressort ;
+- réaliser les premiers essais de tir ;
