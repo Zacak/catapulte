@@ -629,3 +629,526 @@ Les prochaines étapes seront donc :
 - mesurer les dimensions réelles du système ;
 - recalculer la force et l'énergie du ressort ;
 - réaliser les premiers essais de tir ;
+
+## Vendredi 4 septembre 2026
+
+### Mesure de la longueur réelle du ressort
+
+J’ai repris la mesure du ressort réel afin de déterminer correctement sa longueur au repos pour l’étude du prototype.
+
+La longueur mesurée entre les centres des deux boucles du ressort est :
+
+\[
+L_0 = 3,2\ \text{cm}
+\]
+
+soit :
+
+\[
+\boxed{L_0 = 0,032\ \text{m}}
+\]
+
+---
+
+### Mesures réalisées sur la CAO
+
+À partir de Fusion 360, j’ai mesuré la distance entre les deux points d’accroche du ressort lorsque le bras est en position armée.
+
+La valeur obtenue est :
+
+\[
+L_{\text{armé}} = 45,157\ \text{mm}
+\]
+
+soit :
+
+\[
+L_{\text{armé}} = 0,045157\ \text{m}
+\]
+
+L’allongement du ressort en position armée est donc :
+
+\[
+\Delta L_{\text{armé}}
+=
+L_{\text{armé}}-L_0
+\]
+
+\[
+\Delta L_{\text{armé}}
+=
+0,045157-0,032
+\]
+
+\[
+\boxed{
+\Delta L_{\text{armé}}
+=
+0,013157\ \text{m}
+}
+\]
+
+soit environ :
+
+\[
+\boxed{
+\Delta L_{\text{armé}}
+\approx13,16\ \text{mm}
+}
+\]
+
+---
+
+### Position théorique de libération
+
+J’ai ensuite placé le bras dans une position correspondant à une libération théorique du projectile.
+
+Dans cette position :
+
+\[
+L_{\text{lib}} = 33,275\ \text{mm}
+\]
+
+soit :
+
+\[
+L_{\text{lib}} = 0,033275\ \text{m}
+\]
+
+L’allongement restant dans le ressort est donc :
+
+\[
+\Delta L_{\text{lib}}
+=
+L_{\text{lib}}-L_0
+\]
+
+\[
+\Delta L_{\text{lib}}
+=
+0,033275-0,032
+\]
+
+\[
+\boxed{
+\Delta L_{\text{lib}}
+=
+0,001275\ \text{m}
+}
+\]
+
+Le ressort est donc presque revenu à sa longueur au repos dans cette position.
+
+---
+
+### Calcul de l’énergie du ressort
+
+La raideur expérimentale retenue précédemment est :
+
+\[
+k=73,5\ \text{N/m}
+\]
+
+L’énergie élastique du ressort est calculée avec :
+
+\[
+E=\frac{1}{2}k(\Delta L)^2
+\]
+
+En position armée :
+
+\[
+E_{\text{armé}}
+=
+\frac{1}{2}
+\times73,5
+\times(0,013157)^2
+\]
+
+\[
+\boxed{
+E_{\text{armé}}
+\approx0,00636\ \text{J}
+}
+\]
+
+À la position de libération :
+
+\[
+E_{\text{lib}}
+=
+\frac{1}{2}
+\times73,5
+\times(0,001275)^2
+\]
+
+\[
+\boxed{
+E_{\text{lib}}
+\approx0,000060\ \text{J}
+}
+\]
+
+L’énergie libérée pendant le mouvement du bras est donc :
+
+\[
+E_{\text{libérée}}
+=
+E_{\text{armé}}-E_{\text{lib}}
+\]
+
+\[
+\boxed{
+E_{\text{libérée}}
+\approx0,00630\ \text{J}
+}
+\]
+
+---
+
+### Estimation théorique de la vitesse initiale
+
+La masse du projectile est :
+
+\[
+m=0,00175\ \text{kg}
+\]
+
+Dans un premier modèle théorique, je suppose que l’énergie libérée par le ressort est transformée en énergie cinétique du projectile.
+
+\[
+E_c=\frac{1}{2}mv_0^2
+\]
+
+On pose donc :
+
+\[
+E_{\text{libérée}}
+=
+\frac{1}{2}mv_0^2
+\]
+
+On cherche \(v_0\).
+
+\[
+2E_{\text{libérée}}
+=
+mv_0^2
+\]
+
+\[
+v_0^2
+=
+\frac{2E_{\text{libérée}}}{m}
+\]
+
+\[
+v_0
+=
+\sqrt{
+\frac{2E_{\text{libérée}}}{m}
+}
+\]
+
+Application numérique :
+
+\[
+v_0
+=
+\sqrt{
+\frac{2\times0,00630}
+{0,00175}
+}
+\]
+
+\[
+\boxed{
+v_0\approx2,68\ \text{m/s}
+}
+\]
+
+Cette valeur correspond à une estimation théorique idéale.
+
+---
+
+### Angle théorique de lancement
+
+Dans la position de libération étudiée sur la CAO, le bras est incliné d’environ :
+
+\[
+29^\circ
+\]
+
+Le projectile suit au moment de sa libération une direction tangente au mouvement circulaire du bras.
+
+Cette direction est perpendiculaire au bras.
+
+L’angle théorique de lancement est donc :
+
+\[
+\theta=90^\circ-29^\circ
+\]
+
+\[
+\boxed{
+\theta\approx61^\circ
+}
+\]
+
+---
+
+### Hauteur de départ du projectile
+
+La hauteur mesurée entre le plateau et le fond de la coupelle est d’environ :
+
+\[
+96,744\ \text{mm}
+\]
+
+Le projectile ayant un diamètre d’environ 40 mm, son rayon est :
+
+\[
+r=20\ \text{mm}
+\]
+
+La hauteur théorique du centre du projectile est donc estimée à :
+
+\[
+h_0=96,744+20
+\]
+
+\[
+h_0=116,744\ \text{mm}
+\]
+
+soit :
+
+\[
+\boxed{
+h_0\approx0,1167\ \text{m}
+}
+\]
+
+---
+
+### Décomposition de la vitesse initiale
+
+La composante horizontale de la vitesse est :
+
+\[
+v_{0x}=v_0\cos(\theta)
+\]
+
+\[
+v_{0x}
+=
+2,68\times\cos(61^\circ)
+\]
+
+\[
+\boxed{
+v_{0x}\approx1,30\ \text{m/s}
+}
+\]
+
+La composante verticale de la vitesse est :
+
+\[
+v_{0y}=v_0\sin(\theta)
+\]
+
+\[
+v_{0y}
+=
+2,68\times\sin(61^\circ)
+\]
+
+\[
+\boxed{
+v_{0y}\approx2,35\ \text{m/s}
+}
+\]
+
+---
+
+### Équations théoriques de la trajectoire
+
+Le mouvement horizontal est décrit par :
+
+\[
+x(t)=v_{0x}t
+\]
+
+Avec les valeurs calculées :
+
+\[
+\boxed{
+x(t)=1,30t
+}
+\]
+
+Le mouvement vertical est décrit par :
+
+\[
+y(t)=h_0+v_{0y}t-\frac{1}{2}gt^2
+\]
+
+avec :
+
+\[
+g=9,81\ \text{m/s}^2
+\]
+
+Donc :
+
+\[
+y(t)
+=
+0,1167
++
+2,35t
+-
+\frac{1}{2}\times9,81t^2
+\]
+
+soit :
+
+\[
+\boxed{
+y(t)=0,1167+2,35t-4,905t^2
+}
+\]
+
+Ces deux équations décrivent théoriquement le mouvement horizontal et vertical du projectile.
+
+---
+
+### Hauteur maximale théorique
+
+Au point le plus haut de la trajectoire, la vitesse verticale devient nulle.
+
+La hauteur maximale peut être calculée avec :
+
+\[
+h_{\max}
+=
+h_0+
+\frac{v_{0y}^2}{2g}
+\]
+
+Application :
+
+\[
+h_{\max}
+=
+0,1167+
+\frac{(2,35)^2}
+{2\times9,81}
+\]
+
+\[
+h_{\max}
+=
+0,1167+
+\frac{5,5225}{19,62}
+\]
+
+\[
+h_{\max}
+\approx0,1167+0,2815
+\]
+
+\[
+\boxed{
+h_{\max}\approx0,398\ \text{m}
+}
+\]
+
+soit environ :
+
+\[
+\boxed{
+h_{\max}\approx39,8\ \text{cm}
+}
+\]
+
+Le projectile monte donc théoriquement d’environ 28 cm par rapport à sa hauteur de départ.
+
+---
+
+### Portée théorique
+
+La portée correspond à la distance horizontale parcourue par le projectile avant d’atteindre le niveau du plateau.
+
+En tenant compte de la hauteur initiale \(h_0\), la portée théorique peut être calculée avec :
+
+\[
+R=
+\frac{v_0\cos(\theta)}{g}
+\left[
+v_0\sin(\theta)
++
+\sqrt{
+(v_0\sin(\theta))^2+2gh_0
+}
+\right]
+\]
+
+Avec :
+
+\[
+v_0=2,68\ \text{m/s}
+\]
+
+\[
+\theta=61^\circ
+\]
+
+\[
+h_0=0,1167\ \text{m}
+\]
+
+\[
+g=9,81\ \text{m/s}^2
+\]
+
+on obtient une portée théorique d’environ :
+
+\[
+\boxed{
+R_{\text{théorique}}\approx0,68\ \text{m}
+}
+\]
+
+soit environ :
+
+\[
+\boxed{
+R_{\text{théorique}}\approx68\ \text{cm}
+}
+\]
+
+Cette valeur sera comparée à la portée réelle lors des essais du prototype.
+
+---
+
+### Bilan de la journée
+
+Aujourd’hui, j’ai principalement travaillé sur :
+
+- la mesure de la longueur du ressort au repos ;
+- la mesure des longueurs du ressort dans la CAO ;
+- le calcul de l’allongement du ressort ;
+- le calcul de l’énergie libérée par le ressort ;
+- l’estimation théorique de la vitesse initiale du projectile ;
+- la détermination d’un angle théorique de lancement ;
+- la décomposition de la vitesse initiale ;
+- la mise en place des équations théoriques du mouvement ;
+- le calcul de la hauteur maximale théorique ;
+- le calcul de la portée théorique.
+
+Les résultats obtenus correspondent à un modèle théorique simplifié.
+
+Les frottements de l’air, les pertes mécaniques et l’inertie du bras ne sont pas encore pris en compte.
+
+Les prochaines étapes seront de terminer le prototype, réaliser plusieurs tirs et comparer la portée réelle avec les calculs théoriques et la simulation Algodoo.
